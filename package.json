@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/syuniki/typescript_sample/issues"
   },
-  "homepage": "https://github.com/syuniki/typescript_sample#readme"
+  "homepage": "https://github.com/syuniki/typescript_sample#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
